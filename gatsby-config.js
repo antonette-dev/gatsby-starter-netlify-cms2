@@ -2,7 +2,7 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Websites For Accountants',
+    title: 'Web Design For Accountants',
     description:
       'Accountants meet tech.',
   },
